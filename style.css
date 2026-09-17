@@ -1,57 +1,39 @@
-header{
-    background-color:aquamarine;
-    margin-right:50px;
-    margin-left: 50px;
-    margin-bottom:20px;
-    background: local;
-    text-align: center;
-    padding: 80px;
+
+   header{
+    background:color light plum;
+    padding: 15px 30 px;
     display: flex;
     justify-content: space-between;
-    border-radius: 20px;
-    color: black;
-    
 }
 
-nav a{
-    color: aqua;
+nav a {
+    color:white;
     text-decoration: none;
     margin-left: 20px;
 }
+
 .hero{
-    background-color: aquamarine;
+    background:#2563eb;
     text-align: center;
-    padding: 50px;
-    color:black;
-    margin-right:20px;
-    margin-left: 20px;
-    margin-bottom:50px;
-    border-radius: 20px;
+    padding: 80px 20px;
+    color: white;
 }
-.btn{
-   background-color:rgb(14, 45, 133);
-   border-radius:5px;
-   border:none;
 
+.btn {
+    background: #f59e0b;
+    padding: 10px 25px;
+    border:none;
+    border-radius: 5px;
 }
-.content{
-    background: local;
-    background-color: rgb(15, 104, 104);
-   padding: 50px;
-   border-radius: 5px;
-   text-align: center;
-   margin-right:30px;
-    margin-left: 15px;
-    margin-bottom:20px;
-}
-footer{
-    background-color: aqua;
-    color: azure;
+
+.content {
+    padding: 50px 20px;
     text-align: center;
-    padding:30px;
 }
 
-   
-
-
-
+footer {
+    background:  #0f172a;
+    color:  #94a3b8;
+    text-align: center;
+    padding: 20x;
+}
