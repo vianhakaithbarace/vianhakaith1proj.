@@ -1,0 +1,57 @@
+header{
+    background-color:aquamarine;
+    margin-right:50px;
+    margin-left: 50px;
+    margin-bottom:20px;
+    background: local;
+    text-align: center;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    color: black;
+    
+}
+
+nav a{
+    color: aqua;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.hero{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 50px;
+    color:black;
+    margin-right:20px;
+    margin-left: 20px;
+    margin-bottom:50px;
+    border-radius: 20px;
+}
+.btn{
+   background-color:rgb(14, 45, 133);
+   border-radius:5px;
+   border:none;
+
+}
+.content{
+    background: local;
+    background-color: rgb(15, 104, 104);
+   padding: 50px;
+   border-radius: 5px;
+   text-align: center;
+   margin-right:30px;
+    margin-left: 15px;
+    margin-bottom:20px;
+}
+footer{
+    background-color: aqua;
+    color: azure;
+    text-align: center;
+    padding:30px;
+}
+
+   
+
+
+
